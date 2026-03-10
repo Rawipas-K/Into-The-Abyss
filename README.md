@@ -16,6 +16,6 @@ As a result of this project, it was possible to develop a game that meets the ob
 </p>
 
 ### Permission
-This project is released under the King Mongkut's University of Technology Ladkrabang license.
+This project is released under the King Mongkut’s Institute of Technology Ladkrabang license.
 
 Project file[Thai version]: [2DPixelArtRPGGameDevelopment.pdf](https://github.com/user-attachments/files/23470061/2DPixelArtRPGGameDevelopment.pdf)
